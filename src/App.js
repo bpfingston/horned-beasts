@@ -1,27 +1,17 @@
 import './App.css';
-import { Component } from 'react';
-import Header from './Header.js';
-import Footer from './Footer.js';
-import Main from './Main.js';
+import Header from './stuff/Header';
+import Footer from './stuff/Footer';
+import Main from './stuff/Main';
 
 
 function App() {
   return (
     <div>
       <Header />
-      <Main message={'Hi there'}/>
+      <Main/>
       <Footer />
     </div>
   );
-}
-
-
-
-class HornedBeast extends Component {
-
-  render() {
-    return <h1>I am a horned beast with title of {this.props.title}</h1>
-  }
 }
 
 export default App;
