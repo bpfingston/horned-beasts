@@ -2,9 +2,9 @@ import { Component } from 'react';
 
 class Footer extends Component {
 
-    render(){
-      return <h1>Author: Bryce Pfignston</h1>
-    }
+  render(){
+    return <h2>Author: Bryce Pfignston</h2>
+  }
 }
 
 export default Footer;

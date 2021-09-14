@@ -2,10 +2,9 @@ import { Component } from 'react';
 
 class Header extends Component {
 
-    render(){
-      return <h1>I am a header</h1>
-    }
-  
+  render(){
+    return <h1>Dem Beasties</h1>
+  }
 }
 
 export default Header;
