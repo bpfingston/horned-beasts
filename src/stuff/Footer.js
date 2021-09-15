@@ -6,7 +6,7 @@ export default class Footer extends Component {
 
   render() {
     return (
-      <Navbar bg="Red" variant="dark">
+      <Navbar bg="dark" variant="dark">
         <Container>
           <Navbar.Brand>
             {this.props.text}
