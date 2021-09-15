@@ -1,10 +1,19 @@
 import { Component } from 'react';
+import Navbar from 'react-bootstrap/Navbar'
+import Container from 'react-bootstrap/Container'
 
-class Footer extends Component {
+export default class Footer extends Component {
 
-  render(){
-    return <h2>Author: Bryce Pfignston</h2>
+  render() {
+    return (
+      <Navbar bg="Red" variant="dark">
+        <Container>
+          <Navbar.Brand>
+            {this.props.text}
+          </Navbar.Brand>
+        </Container>
+      </Navbar>
+    );
   }
 }
 
-export default Footer;
