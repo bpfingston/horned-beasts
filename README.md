@@ -7,7 +7,7 @@
 Day 2 Exercise  
 
 Number and name of feature: Feature #1: Display images  
-Estimate of time needed to complete: 30 min
+Estimate of time needed to complete: 30 min  
 Start time: 5:45 pm  
 Finish time: 6:45 pm  
 Actual time needed to complete: 1 hour   </br>
@@ -20,6 +20,14 @@ Actual time needed to complete: 45 min  </br>
 
 Number and name of feature: Feature 3: Bootstrap  
 Estimate of time needed to complete: 30 min  
-Start time: 8:00 pm
+Start time: 8:00 pm  
 Finish time: 9:00 pm  
 Actual time needed to complete: 1 hour  
+
+Day 3 Exercise
+
+Number and name of feature: Feature #1: Display a Modal  
+Estimate of time needed to complete: 4 hours  
+Start time: 4:30 pm  
+Finish time: 8:20 pm  
+Actual time needed to complete: 3 hours 50 min  
