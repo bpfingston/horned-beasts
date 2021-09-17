@@ -31,3 +31,11 @@ Estimate of time needed to complete: 4 hours
 Start time: 4:30 pm  
 Finish time: 8:20 pm  
 Actual time needed to complete: 3 hours 50 min  
+
+Day 4 Exercise
+
+Number and name of feature: Feature 1. Filter by Numbers of Horns  
+Estimate of time needed to complete: 3 hours  
+Start time: 4:30 pm  
+Finish time: 7:00 pm  
+Actual time needed to complete: 2 and half hours  

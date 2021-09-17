@@ -28,6 +28,7 @@ export default class HornedBeast extends Component {
         <Card.Body>
           <Card.Title>{this.props.title}</Card.Title>
           <Card.Text>{this.props.description}</Card.Text>
+          <Card.Text>{this.props.horns}</Card.Text>
           <Card.Title>{this.state.heart}{this.state.votes}</Card.Title>
         </Card.Body>
       </Card>
