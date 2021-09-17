@@ -17,7 +17,7 @@ export default class Main extends Component{
             title={beast.title}
             keyword={beast.keyword}
             image={beast.image_url}
-            description={beast.description}
+            Horn={beast.horns}
             modalClick={() => this.props.modalClick(beast)}
           />
         )};
